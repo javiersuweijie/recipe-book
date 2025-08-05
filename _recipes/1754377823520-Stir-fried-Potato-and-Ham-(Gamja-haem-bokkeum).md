@@ -13,8 +13,8 @@ ingredients:
   - ½ small carrot (about ⅓ cup), peeled and cut into ⅓ inch cubes
   - 2 tablespoons vegetable oil
   - ½ cup (120ml) water
-  - 3 tablespoons soy sauce
-  - 1 tablespoon sugar (or calorie-free sweetener), optional
+  - 2 tablespoons soy sauce
+  - 0.5 tablespoon sugar (or calorie-free sweetener), optional
   - 1 teaspoon toasted sesame oil
 notes:
   - You can refrigerate the dish for up to 3 days
