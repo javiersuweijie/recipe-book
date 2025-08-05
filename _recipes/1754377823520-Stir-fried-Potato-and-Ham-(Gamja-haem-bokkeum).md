@@ -14,7 +14,7 @@ ingredients:
   - 2 tablespoons vegetable oil
   - ½ cup (120ml) water
   - 2 tablespoons soy sauce
-  - 0.5 tablespoon sugar (or calorie-free sweetener), optional
+  - 1 teaspoon sugar
   - 1 teaspoon toasted sesame oil
 notes:
   - You can refrigerate the dish for up to 3 days
