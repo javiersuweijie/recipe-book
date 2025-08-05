@@ -6,11 +6,11 @@ servings: 4
 prep_time: 10 minutes
 cook_time: 15 minutes
 ingredients:
-  - 1 pound (450g) russet potato (or Yukon gold), peeled
+  - 2 potatos
+  - 2 carrots
   - 2 cloves garlic, minced
-  - 4 ounces (115g) onion, cut into ½ inch chunks
+  - ½ onion, cut into ½ inch chunks
   - 3 ounces (85g) cooked ham, cut into ½ inch cubes
-  - ½ small carrot (about ⅓ cup), peeled and cut into ⅓ inch cubes
   - 2 tablespoons vegetable oil
   - ½ cup (120ml) water
   - 2 tablespoons soy sauce
