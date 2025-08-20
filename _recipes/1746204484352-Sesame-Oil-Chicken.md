@@ -20,6 +20,7 @@ notes:
   - Simmer on low heat for tender, juicy chicken.
 
 ---
+1. Marinate the chicken in with 1 tbps of sesame oil and 1 tbps of soy sauce with some water.
 
 1. Heat a skillet or wok over high heat and add sesame oil. Once hot, add ginger strips and stir-fry until light brown and aromatic.
 
