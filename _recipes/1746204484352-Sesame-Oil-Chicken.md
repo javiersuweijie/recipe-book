@@ -22,10 +22,10 @@ notes:
 ---
 1. Marinate the chicken in with 1 tbps of sesame oil and 1 tbps of soy sauce with some water.
 
-1. Heat a skillet or wok over high heat and add sesame oil. Once hot, add ginger strips and stir-fry until light brown and aromatic.
+2. Heat a skillet or wok over high heat and add sesame oil. Once hot, add ginger strips and stir-fry until light brown and aromatic.
 
-2. Add chicken and stir-fry for 10-15 seconds, then add soy sauce, Shaoxing wine, and ground white pepper.
+3. Add chicken and stir-fry for 10-15 seconds, then add soy sauce, Shaoxing wine, and ground white pepper.
 
-3. Add water, stir quickly, cover the skillet or wok, and reduce heat to low. Let simmer for 10 minutes, or until sauce thickens and chicken is tender.
+4. Add water, stir quickly, cover the skillet or wok, and reduce heat to low. Let simmer for 15 minutes, or until sauce thickens and chicken is tender.
 
-4. Dish out and serve immediately.
+5. Dish out and serve immediately.
