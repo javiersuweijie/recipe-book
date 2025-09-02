@@ -7,16 +7,16 @@ prep_time: 20 minutes
 cook_time: 50 minutes
 ingredients:
   - 主要材料:
-    - 豬肋排 (Spare ribs) — 300g
+    - 豬肋排 (Spare ribs) — 500g
     - 馬鈴薯 (Potatoes) — 2個
     - 紅蘿蔔 (Carrot) — 100g
     - 洋蔥 (Onion) — 1/2個
     - 碗豆 (Snap peas, blanched) — 5片
   - 高湯及調料:
     - 高湯 (Dashi) — 500cc
-    - 砂糖 (Sugar) — 2大匙
-    - 醬油 (Soy sauce) — 2大匙
-    - 蠔油 (Oyster sauce) — 2小匙
+    - 砂糖 (Sugar) — 2小匙
+    - 醬油 (Soy sauce) — 1大匙
+    - 蠔油 (Oyster sauce) — 1小匙
 notes:
   - Ensure potatoes are soaked before cooking for better texture
 ---
