@@ -1,13 +1,32 @@
 <div class="sidebar">
     <div class="sidebar-header">
         <h2>Recipes</h2>
+        <input type="text" id="recipe-search" placeholder="Search recipes..."
+            class="w-full mt-2 px-2 py-1 border rounded text-sm mb-2">
     </div>
-    <nav class="recipe-list">
+    <nav class="recipe-list" id="recipe-list">
         {% assign sorted_recipes = site.recipes | reverse %}
         {% for recipe in sorted_recipes %}
-            <a href="{{ recipe.url | relative_url }}" class="recipe-link {% if page.url == recipe.url %}active{% endif %}">
-                {{ recipe.title }}
-            </a>
+        <a href="{{ recipe.url | relative_url }}" class="recipe-link {% if page.url == recipe.url %}active{% endif %}"
+            data-title="{{ recipe.title | downcase }}">
+            {{ recipe.title }}
+        </a>
         {% endfor %}
     </nav>
-</div> 
+</div>
+
+<script>
+    document.getElementById('recipe-search').addEventListener('input', function (e) {
+        const searchTerm = e.target.value.toLowerCase();
+        const recipes = document.querySelectorAll('.recipe-link');
+
+        recipes.forEach(recipe => {
+            const title = recipe.getAttribute('data-title');
+            if (title.includes(searchTerm)) {
+                recipe.style.display = 'block';
+            } else {
+                recipe.style.display = 'none';
+            }
+        });
+    });
+</script>
