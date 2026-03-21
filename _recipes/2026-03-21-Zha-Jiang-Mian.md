@@ -1,0 +1,41 @@
+---
+layout: recipe
+title: Zha Jiang Mian (Fried Sauce Noodles)
+description: A classic Beijing dish featuring ground pork and onion cooked in a rich savory brown sauce with a hint of sweetness, tossed with noodles and served with crunchy cucumber.
+servings: 4
+prep_time: 15 minutes
+cook_time: 20 minutes
+ingredients:
+  - 12 oz (340g) ground pork (or small diced pork)
+  - 1 tbsp minced ginger
+  - 2 tbsp Shaoxing wine
+  - 3/4 cup sweet bean paste (Tian Mian Jiang)
+  - 1 1/2 cups water
+  - 4 tbsp peanut oil (or vegetable oil)
+  - 1 white onion, diced
+  - 12 oz fresh wheat noodles (or 9 oz / 240g dried wheat noodles)
+  - "Toppings":
+    - 1 cucumber, julienned
+    - Cilantro or green onion, chopped (for garnish)
+    - Optional: Stir-fried tomato and egg
+notes:
+  - My mom likes to use small diced pork instead of ground pork for a chewier texture.
+  - This dish is usually served with chewy wheat noodles that are round and fatty, similar to udon noodles.
+  - Serving Zha Jiang Mian with tomato and egg stir fry is my family’s favorite unconventional way to serve the dish.
+---
+
+1. Mix sweet bean paste with the water in a bowl, stirring constantly until fully incorporated.
+
+2. Heat the peanut oil in a large skillet or wok over medium-high heat until hot. Add the ginger and stir a few times to release the fragrance.
+
+3. Add the pork. Cook, stirring to break it up, until the pork turns into small pieces and has browned.
+
+4. Pour in the Shaoxing wine. Stir and cook for 1 minute.
+
+5. Add the diluted sweet bean paste mixture and reduce heat to medium. Stir constantly until the sauce thickens and turns darker, about 10 minutes. If the sauce thickens too quickly and starts to stick, reduce heat to medium-low and slowly blend in more warm water, 2 tablespoons at a time.
+
+6. Add the diced onion. Cook and stir for 3 to 5 minutes, until the onion has softened but remains crispy. Turn off heat and transfer the sauce to a large bowl.
+
+7. While the sauce simmers, bring a large pot of water to a boil and cook noodles according to package instructions. Once done, drain immediately and rinse with cold tap water to stop cooking. Drain again.
+
+8. Divide noodles into individual serving bowls. Top with a generous amount of sauce, julienned cucumber, and optional tomato and egg stir-fry. Garnish with cilantro or green onions and serve.
