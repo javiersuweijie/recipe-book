@@ -20,6 +20,7 @@ ingredients:
   - 1½ tablespoons soy sauce (or mentsuyu)
   - 1 small bunch chives, minced (for garnish)
 notes:
+  - Cut the eggplant into circles (round slices) instead of diagonals for even cooking and a nice presentation.
   - Trim and cut the eggplant right before cooking so it stays bright and holds together; steaming it gently keeps the chunks intact.
   - Transfer the spaghetti directly from the pot so the starchy cooking water clings to the noodles and helps marry the sauce.
   - Serve with a sprinkle of chives for freshness, and feel free to swap bacon for mushrooms/ham or use mentsuyu for extra umami.
