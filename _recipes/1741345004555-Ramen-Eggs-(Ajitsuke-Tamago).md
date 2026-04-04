@@ -2,7 +2,6 @@
 layout: recipe
 title: Ramen Eggs (Ajitsuke Tamago)
 description: Delicious Japanese soft-boiled eggs marinated in a sweet soy-based sauce, perfect as a topping for ramen or as a snack.
-date: 2025-03-07
 servings: 4
 prep_time: 5 minutes
 cook_time: 10 minutes

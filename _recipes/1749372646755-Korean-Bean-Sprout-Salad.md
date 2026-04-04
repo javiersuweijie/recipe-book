@@ -2,7 +2,6 @@
 layout: recipe
 title: Korean Bean Sprout Salad
 description: A quick and easy Korean side dish made with crunchy bean sprouts seasoned in a sesame garlic soy sauce.
-date: 2025-06-08
 servings: 4
 prep_time: 9 minutes
 cook_time: 1 minute

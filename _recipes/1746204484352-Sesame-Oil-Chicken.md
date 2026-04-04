@@ -2,7 +2,6 @@
 layout: recipe
 title: Sesame Oil Chicken
 description: A super flavorful and aromatic braised chicken dish with plenty of sesame oil and fresh ginger. Perfect for a comforting weeknight dinner in just 20 minutes!
-date: 2025-05-03
 servings: 4 people
 prep_time: 5 minutes
 cook_time: 10 minutes

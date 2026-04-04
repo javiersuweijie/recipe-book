@@ -2,7 +2,6 @@
 layout: recipe
 title: Microwave Scallion Noodles
 description: A quick, single-serving version of scallion oil noodles made in the microwave.
-date: 2026-03-21
 servings: 1
 prep_time: 5 minutes
 cook_time: 6 minutes

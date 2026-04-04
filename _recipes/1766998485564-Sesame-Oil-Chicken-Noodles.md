@@ -2,7 +2,6 @@
 layout: recipe
 title: Sesame Oil Chicken Noodles
 description: A comforting and aromatic chicken dish with sesame oil, shiitake mushrooms, and goji berries, perfect served over noodles or rice
-date: 2025-12-29
 servings: 2
 prep_time: 45 minutes (including marinating)
 cook_time: 20 minutes

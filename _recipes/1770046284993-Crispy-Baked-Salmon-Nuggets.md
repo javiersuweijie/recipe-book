@@ -2,7 +2,6 @@
 layout: recipe
 title: Crispy Baked Salmon Nuggets
 description: Irresistible bite-size crispy salmon coated with panko breadcrumbs and baked until golden. No mess & freezer-friendly.
-date: 2026-02-02
 servings: 4
 prep_time: 15 minutes
 cook_time: 20 minutes

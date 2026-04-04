@@ -2,7 +2,6 @@
 layout: recipe
 title: Air Fried Honey Lemon Chicken
 description: A crispy, tangy-sweet chicken dish with minimal oil, perfect as an appetizer or with rice
-date: 2025-11-30
 servings: 3-4
 prep_time: 15 minutes + 1 hour marinating
 cook_time: 10 minutes

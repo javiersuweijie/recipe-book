@@ -2,7 +2,6 @@
 layout: recipe
 title: Jushime (Okinawan Seasoned Rice)
 description: A traditional Okinawan dish featuring seasoned rice with pork, mushrooms, and vegetables.
-date: 2025-04-19
 servings: 6
 prep_time: 30 minutes
 cook_time: 40 minutes

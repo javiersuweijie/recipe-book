@@ -2,7 +2,6 @@
 layout: recipe
 title: Healthy Granola
 description: Naturally sweetened granola with oats, nuts, and dried fruit
-date: 2026-01-17
 servings: 16
 prep_time: 5 minutes
 cook_time: 21 minutes

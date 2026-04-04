@@ -2,7 +2,6 @@
 layout: recipe
 title: Cantonese Steamed Fish
 description: A traditional Cantonese dish perfect for a quick and delicious weeknight dinner, served with aromatic sauce and steamed to perfection.
-date: 2025-02-03
 servings: 2
 prep_time: 5 minutes
 cook_time: 15 minutes

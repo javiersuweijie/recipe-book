@@ -2,7 +2,6 @@
 layout: recipe
 title: Corn & Salmon Rice with Butter Soy Sauce
 description: A flavorful and colorful Japanese-inspired rice dish made in a rice cooker with salmon, corn, and carrots, finished with butter and soy sauce
-date: 2025-04-12
 servings: 4
 prep_time: 20 minutes
 cook_time: 20 minutes

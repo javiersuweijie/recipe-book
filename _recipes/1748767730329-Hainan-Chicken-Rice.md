@@ -2,7 +2,6 @@
 layout: recipe
 title: Hainan Chicken Rice
 description: A classic Singaporean dish featuring poached chicken and fragrant rice cooked in chicken stock, served with three signature sauces.
-date: 2025-06-01
 servings: 6
 prep_time: 30 minutes
 cook_time: 2 hours 35 minutes

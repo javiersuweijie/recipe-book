@@ -2,7 +2,6 @@
 layout: recipe
 title: Air Fryer Sticky Wings
 description: Crispy and flavorful chicken wings made easy in the air fryer
-date: 2025-10-06
 servings: 4
 prep_time: 4 hours (includes marinating time)
 cook_time: 15 minutes

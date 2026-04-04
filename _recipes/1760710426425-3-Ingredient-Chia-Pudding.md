@@ -2,7 +2,6 @@
 layout: recipe
 title: 3-Ingredient Chia Pudding
 description: A healthy snack loaded with protein, fiber and healthy fats
-date: 2025-10-17
 servings: 1
 prep_time: 5 minutes
 cook_time: 0 minutes

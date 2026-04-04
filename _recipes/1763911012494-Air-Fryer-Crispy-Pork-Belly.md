@@ -2,7 +2,6 @@
 layout: recipe
 title: Air Fryer Crispy Pork Belly
 description: Extra-crispy Chinese-style roast pork belly made fast in the air fryer—no 48-hour prep required
-date: 2025-11-23
 servings: 12
 prep_time: 10 minutes
 cook_time: 1 hour

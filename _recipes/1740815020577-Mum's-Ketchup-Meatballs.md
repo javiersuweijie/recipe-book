@@ -2,7 +2,6 @@
 layout: recipe
 title: Mum's Ketchup Meatballs
 description: A tasty and easy-to-make meatball dish with a sweet and tangy ketchup-based sauce
-date: 2025-03-01
 servings: 3
 prep_time: 10 minutes
 cook_time: 15 minutes

@@ -2,7 +2,6 @@
 layout: recipe
 title: Easy Hayashi Rice
 description: A Japanese comfort food dish featuring tender beef, mushrooms, and a rich demi-glace sauce served over rice.
-date: 2025-07-05
 servings: 4
 prep_time: 10 minutes
 cook_time: 30 minutes

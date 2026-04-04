@@ -2,7 +2,6 @@
 layout: recipe
 title: Bulgogi (Korean Grilled Beef)
 description: A classic Korean grilled beef recipe that makes a mouthwatering dinner or lunch. It's easy to make on a BBQ grill or stovetop griddle.
-date: 2025-08-24
 servings: 2
 prep_time: 10 minutes
 cook_time: 10 minutes

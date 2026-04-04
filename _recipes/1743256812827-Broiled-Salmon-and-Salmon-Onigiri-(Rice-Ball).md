@@ -2,7 +2,6 @@
 layout: recipe
 title: Broiled Salmon and Salmon Onigiri (Rice Ball)
 description: A quick and easy Japanese-inspired dish perfect for dinner or bento lunch
-date: 2025-03-29
 servings: 2
 prep_time: 10 minutes
 cook_time: 10 minutes

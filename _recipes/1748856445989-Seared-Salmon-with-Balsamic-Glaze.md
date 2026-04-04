@@ -2,7 +2,6 @@
 layout: recipe
 title: Seared Salmon with Balsamic Glaze
 description: A flavorful and elegant dish where the balsamic glaze enhances the natural sweetness of the salmon.
-date: 2025-06-02
 servings: 4
 prep_time: 5 minutes
 cook_time: 15 minutes

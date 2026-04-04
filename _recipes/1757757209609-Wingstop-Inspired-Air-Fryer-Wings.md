@@ -2,7 +2,6 @@
 layout: recipe
 title: Wingstop-Inspired Air Fryer Wings
 description: Crispy and saucy air fryer wings inspired by Wingstop, made healthier at home
-date: 2025-09-13
 servings: 4-6
 prep_time: 20 minutes
 cook_time: 24 minutes

@@ -2,7 +2,6 @@
 layout: recipe
 title: Mini Chocolate Milk Hearth
 description: Mini Chocolate Milk Hearth bread with chocolate chips
-date: 2026-03-07
 source: https://www.youtube.com/watch?v=vS1vxMEe0ss&t=1012s
 servings: 
 prep_time: 45 minutes

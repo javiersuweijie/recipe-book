@@ -2,7 +2,6 @@
 layout: recipe
 title: Korean Dumpling Noodles
 description: A hearty and flavorful noodle soup featuring Korean dumplings and rich beef broth.
-date: 2025-03-21
 servings: 2
 prep_time: 20 minutes
 cook_time: 25 minutes

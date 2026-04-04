@@ -2,7 +2,6 @@
 layout: recipe
 title: Japchae (Korean Stir-Fried Glass Noodles)
 description: A classic Korean dish featuring chewy sweet potato noodles, tender beef, and colorful vegetables, all tossed in a savory-sweet sesame sauce
-date: 2025-10-17
 servings: 4
 prep_time: 45 minutes
 cook_time: 20 minutes

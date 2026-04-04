@@ -2,7 +2,6 @@
 layout: recipe
 title: Golden Egg Tofu with Minced Meat, Carrots and Mushrooms
 description: A comforting Chinese dish featuring crispy egg tofu in a savoury minced meat sauce with vegetables
-date: 2025-11-30
 servings: 2
 prep_time: 10 minutes
 cook_time: 30 minutes

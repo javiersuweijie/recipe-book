@@ -2,7 +2,6 @@
 layout: recipe
 title: Mom's Best Braised Pork Ribs
 description: An easy braised pork ribs recipe that promises fall-off-the-bone ribs with a rich, savory taste. Freezer-friendly and perfect for meal prep. {Gluten Free Adaptable}
-date: 2025-02-03
 servings: 6 to 8 servings
 prep_time: 10 minutes
 cook_time: 1 hour 30 minutes

@@ -2,7 +2,6 @@
 layout: recipe
 title: Korean Bulgogi Beef Stir Fry
 description: A classic Korean dish with sweet and salty marinated beef, quick and easy to make
-date: 2025-11-15
 servings: 2-3
 prep_time: 15 minutes
 cook_time: 5 minutes

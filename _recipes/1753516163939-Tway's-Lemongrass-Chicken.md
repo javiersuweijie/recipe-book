@@ -2,7 +2,6 @@
 layout: recipe
 title: Tway's Lemongrass Chicken
 description: A flavorful and aromatic chicken dish with a perfect balance of sweet, sour, and spicy flavors
-date: 2025-07-26
 servings: 4
 prep_time: 10 minutes
 cook_time: 8-10 minutes

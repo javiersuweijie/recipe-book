@@ -2,7 +2,6 @@
 layout: recipe
 title: Japanese-Inspired Miso Carbonara Udon
 description: A decadent fusion dish combining Japanese and Italian flavors, featuring chewy udon noodles in a creamy miso sauce with crispy guanciale.
-date: 2025-08-18
 servings: 4
 prep_time: 10 minutes
 cook_time: 20 minutes

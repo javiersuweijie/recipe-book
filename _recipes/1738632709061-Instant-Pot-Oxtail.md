@@ -2,7 +2,6 @@
 layout: recipe
 title: Instant Pot Oxtail
 description: Super easy to make fall-off-the-bone tender & juicy Instant Pot Oxtail! Fall in love with the buttery rich beefy flavors paired with the satisfying gelatin-rich & tender pressure cooker oxtails. Comforting & delicious!
-date: 2025-02-04
 servings: 3
 prep_time: 20 minutes
 cook_time: 1 hour 30 minutes

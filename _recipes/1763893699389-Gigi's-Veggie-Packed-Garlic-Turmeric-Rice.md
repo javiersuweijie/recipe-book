@@ -2,7 +2,6 @@
 layout: recipe
 title: Gigi's Veggie-Packed Garlic Turmeric Rice
 description: A nourishing, colorful rice side dish loaded with vegetables and fragrant spices
-date: 2025-11-23
 servings: 4
 prep_time: 15 minutes
 cook_time: 35 minutes

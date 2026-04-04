@@ -2,7 +2,6 @@
 layout: recipe
 title: Chicken and Rice
 description: A flavorful and aromatic chicken and rice dish perfect for a hearty meal
-date: 2025-03-12
 servings: 2-3
 prep_time: 20 minutes
 cook_time: 30 minutes

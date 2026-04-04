@@ -2,7 +2,6 @@
 layout: recipe
 title: Super Easy Chinese Braised Ribs in Secret Sauce
 description: A flavorful and tender pork rib dish with a rich, savory secret sauce
-date: 2025-06-15
 servings: 4-5 pax (if served with other dishes), 2-3 pax (if served on its own with rice)
 prep_time: 15 minutes
 cook_time: 45 minutes

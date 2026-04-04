@@ -2,7 +2,6 @@
 layout: recipe
 title: Japchae (Stir-Fried Starch Noodles with Beef and Vegetables)
 description: A classic Korean dish made with sweet potato starch noodles, beef, and vegetables
-date: 2025-10-19
 servings: 4
 prep_time: 15 minutes
 cook_time: 20 minutes

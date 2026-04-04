@@ -2,7 +2,6 @@
 layout: recipe
 title: Chicken Pad Thai (Takeout-Style)
 description: A vegetable-loaded takeout-style chicken pad thai with chewy noodles, juicy chicken, and colorful crisp vegetables in a tangy sweet sauce. Gluten-free adaptable, vegan/vegetarian adaptable.
-date: 2025-03-29
 servings: 4
 prep_time: 30 minutes
 cook_time: 10 minutes

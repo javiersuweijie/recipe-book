@@ -2,7 +2,6 @@
 layout: recipe
 title: Steamed Chicken with Scallion Ginger Sauce
 description: Steamed chicken drumsticks with a savory scallion ginger sauce.
-date: 2026-03-15
 servings: 2-3
 prep_time: 15 minutes
 cook_time: 30 minutes
