@@ -2,6 +2,7 @@
 layout: recipe
 title: Nikujaga (Japanese Meat and Potato Stew)
 description: A comforting Japanese dish featuring thinly sliced beef and potatoes simmered in a savory and sweet broth.
+date: 2025-03-09
 servings: 4
 prep_time: 15 minutes
 cook_time: 15 minutes

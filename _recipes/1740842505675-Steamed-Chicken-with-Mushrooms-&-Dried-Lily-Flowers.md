@@ -2,6 +2,7 @@
 layout: recipe
 title: Steamed Chicken with Mushrooms & Dried Lily Flowers
 description: A traditional Cantonese steamed chicken dish with mushrooms and dried lily flowers, resulting in a silky texture.
+date: 2025-03-01
 servings: 4
 prep_time: 2 hours
 cook_time: 12 minutes

@@ -2,6 +2,7 @@
 layout: recipe
 title: Korean Seaweed Soup (Miyeok Guk)
 description: A simple and delicious traditional Korean seaweed soup
+date: 2025-08-24
 servings: 3 to 4
 prep_time: 10 minutes
 cook_time: 10 minutes

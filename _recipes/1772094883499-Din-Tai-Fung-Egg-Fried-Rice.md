@@ -2,6 +2,7 @@
 layout: recipe
 title: Din Tai Fung Egg Fried Rice
 description: A simple yet delicious egg fried rice inspired by Din Tai Fung.
+date: 2026-02-26
 servings: 2
 prep_time: 10 minutes
 cook_time: 15 minutes

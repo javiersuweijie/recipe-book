@@ -2,6 +2,7 @@
 layout: recipe
 title: Japanese Hamburger Steak (Hambagu)
 description: Juicy, tender Japanese-style hamburger steaks served with a rich red wine reduction sauce.
+date: 2025-12-21
 servings: 4
 prep_time: 30 minutes
 cook_time: 20 minutes

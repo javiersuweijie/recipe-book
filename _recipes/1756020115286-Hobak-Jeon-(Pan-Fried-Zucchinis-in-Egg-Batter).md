@@ -2,6 +2,7 @@
 layout: recipe
 title: Hobak Jeon (Pan-Fried Zucchinis in Egg Batter)
 description: Crispy pan-fried zucchinis in egg batter, a classic Korean side dish
+date: 2025-08-24
 servings: 4
 prep_time: 10 minutes
 cook_time: 10 minutes

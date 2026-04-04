@@ -2,6 +2,7 @@
 layout: recipe
 title: Silken Tofu Pasta Sauce
 description: This quick and easy silken tofu pasta sauce is super creamy, rich-in-flavor and high-protein. It comes together within 20 minutes and makes for the perfect creamy pasta sauce to customize with more veggies. Naturally vegan and gluten-free.
+date: 2026-03-10
 servings: 4
 prep_time: 5 minutes
 cook_time: 15 minutes

@@ -2,6 +2,7 @@
 layout: recipe
 title: Braised Pork Belly
 description: A rich and flavorful dish with tender pork belly, perfect for serving with rice or noodles
+date: 2025-02-08
 servings: 4-6
 prep_time: 20 minutes
 cook_time: 1 hour 30 minutes

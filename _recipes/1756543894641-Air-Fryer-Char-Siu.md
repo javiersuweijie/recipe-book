@@ -2,6 +2,7 @@
 layout: recipe
 title: Air Fryer Char Siu
 description: Juicy Chinese BBQ Pork made in 20 minutes—30 minutes faster than the traditional oven method!
+date: 2025-08-30
 servings: 8
 prep_time: 25 minutes
 cook_time: 15-18 minutes

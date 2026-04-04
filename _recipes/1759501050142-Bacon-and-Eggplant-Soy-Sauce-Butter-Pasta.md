@@ -2,6 +2,7 @@
 layout: recipe
 title: Bacon and Eggplant Soy Sauce Butter Pasta
 description: A savory and satisfying fusion of Italian spaghetti with Japanese seasonings, perfect for a quick weeknight meal.
+date: 2025-10-03
 servings: 2
 prep_time: 10 minutes
 cook_time: 15 minutes

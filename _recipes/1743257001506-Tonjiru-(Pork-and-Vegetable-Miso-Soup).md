@@ -2,6 +2,7 @@
 layout: recipe
 title: Tonjiru (Pork and Vegetable Miso Soup)
 description: A savory pork and vegetable miso soup packed with B vitamins, fiber, and minerals, perfect for a comforting meal.
+date: 2025-03-29
 servings: 8
 prep_time: 20 minutes
 cook_time: 20 minutes

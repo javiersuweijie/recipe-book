@@ -2,6 +2,7 @@
 layout: recipe
 title: Non Spicy Mapo Tofu
 description: A kid-friendly version of the classic Sichuan dish, adapted to be non-spicy while retaining its rich and savory flavors.
+date: 2025-02-03
 servings: 4
 prep_time: 5 minutes
 cook_time: 10 minutes

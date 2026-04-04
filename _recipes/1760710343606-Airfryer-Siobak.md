@@ -2,6 +2,7 @@
 layout: recipe
 title: Airfryer Siobak
 description: Crispy pork belly cooked in the air fryer with a tangy herb dipping sauce
+date: 2025-10-17
 servings: 2-3
 prep_time: 15 minutes
 cook_time: 50 minutes

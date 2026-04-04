@@ -2,6 +2,7 @@
 layout: recipe
 title: Healthy Sun Dried Tomato Pasta with Spinach (No Cream!)
 description: A light and creamy pasta dish made with penne pasta, Greek yogurt, spinach, Parmesan cheese, and sun-dried tomatoes, perfect for a quick weeknight dinner.
+date: 2025-02-03
 servings: 4
 prep_time: 5 minutes
 cook_time: 25 minutes

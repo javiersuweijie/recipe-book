@@ -2,6 +2,7 @@
 layout: recipe
 title: Rice Cooker Hainanese Chicken Rice
 description: A classic Singaporean dish made easy with a rice cooker, featuring fragrant chicken and flavorful rice.
+date: 2025-05-17
 servings: 3-4
 prep_time: 30 minutes
 cook_time: 40 minutes

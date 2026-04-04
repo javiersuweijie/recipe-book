@@ -2,6 +2,7 @@
 layout: recipe
 title: Chicken Teriyaki
 description: A classic Japanese dish featuring tender and juicy chicken thighs glazed in a rich homemade teriyaki sauce.
+date: 2025-03-07
 servings: 2
 prep_time: 15 minutes
 cook_time: 14 minutes

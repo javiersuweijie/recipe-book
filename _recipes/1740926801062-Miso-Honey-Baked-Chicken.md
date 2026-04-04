@@ -2,6 +2,7 @@
 layout: recipe
 title: Miso Honey Baked Chicken
 description: Sweet and savory baked chicken with a crispy glaze, served with roasted vegetables
+date: 2025-03-02
 servings: 4
 prep_time: 30 minutes
 cook_time: 35 minutes

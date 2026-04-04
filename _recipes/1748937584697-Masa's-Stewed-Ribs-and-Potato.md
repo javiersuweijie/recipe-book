@@ -2,6 +2,7 @@
 layout: recipe
 title: Masa's Stewed Ribs and Potato
 description: A hearty stew with tender spare ribs and potatoes
+date: 2025-06-03
 servings: 2
 prep_time: 20 minutes
 cook_time: 50 minutes

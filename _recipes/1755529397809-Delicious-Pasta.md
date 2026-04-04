@@ -2,6 +2,7 @@
 layout: recipe
 title: Delicious Pasta
 description: A quick and easy pasta dish perfect for weeknight dinners
+date: 2025-08-18
 servings: 4
 prep_time: 15 minutes
 cook_time: 20 minutes

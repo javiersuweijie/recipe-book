@@ -2,6 +2,7 @@
 layout: recipe
 title: Bitter Melon Soup with Pork Bones
 description: A delicious Cantonese-style soup with simple, pure ingredients
+date: 2026-01-25
 servings: 6
 prep_time: 2 hours 15 minutes
 cook_time: 2 hours 45 minutes

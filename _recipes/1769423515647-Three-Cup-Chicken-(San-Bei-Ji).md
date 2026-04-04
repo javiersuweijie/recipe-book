@@ -2,6 +2,7 @@
 layout: recipe
 title: Three Cup Chicken (San Bei Ji)
 description: A popular Taiwanese/Chinese chicken dish braised in a fragrant sauce made with equal parts rice wine, soy sauce, and sesame oil.
+date: 2026-01-26
 servings: 6
 prep_time: 15 minutes
 cook_time: 30 minutes

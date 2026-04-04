@@ -2,6 +2,7 @@
 layout: recipe
 title: Zha Jiang Mian (Fried Sauce Noodles)
 description: A classic Beijing dish featuring ground pork and onion cooked in a rich savory brown sauce with a hint of sweetness, tossed with noodles and served with crunchy cucumber.
+date: 2026-03-21
 servings: 4
 prep_time: 15 minutes
 cook_time: 20 minutes

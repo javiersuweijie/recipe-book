@@ -2,6 +2,7 @@
 layout: recipe
 title: Stir-fried Potato and Ham (Gamja-haem-bokkeum)
 description: A simple Korean side dish made with potatoes, ham, and vegetables, perfect for packing in a lunchbox
+date: 2025-08-05
 servings: 4
 prep_time: 10 minutes
 cook_time: 15 minutes

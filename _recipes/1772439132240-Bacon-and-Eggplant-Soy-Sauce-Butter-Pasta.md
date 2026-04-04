@@ -2,6 +2,7 @@
 layout: recipe
 title: Bacon & Eggplant Soy Sauce Butter Pasta
 description: A quick wafu-style pasta that marries smoky bacon, silky eggplant, and a savoury soy-butter sauce for a satisfying weeknight meal.
+date: 2026-03-02
 servings: 2-3
 prep_time: 10 minutes
 cook_time: 15 minutes

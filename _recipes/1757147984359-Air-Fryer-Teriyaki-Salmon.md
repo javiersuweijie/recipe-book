@@ -2,6 +2,7 @@
 layout: recipe
 title: Air Fryer Teriyaki Salmon
 description: Tender salmon filets air-fried in a homemade sweet and savory teriyaki glaze, perfect for a quick and delicious main dish.
+date: 2025-09-06
 servings: 2
 prep_time: 15 minutes
 cook_time: 7 minutes

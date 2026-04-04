@@ -2,6 +2,7 @@
 layout: recipe
 title: Japchae (Korean Sweet Potato Starch Noodles with Vegetables and Beef)
 description: A classic Korean glass noodle stir-fry with vegetables and beef
+date: 2025-10-19
 servings: 4
 prep_time: 30 minutes
 cook_time: 1 hour

@@ -2,6 +2,7 @@
 layout: recipe
 title: Salt and Peppered Pork Jowl
 description: A silky, crispy Asian tapas featuring pork jowl with a fragrant garlic-chili finish
+date: 2026-02-17
 servings: 2–3
 prep_time: 15 minutes + 2 hours marinating
 cook_time: 15 minutes

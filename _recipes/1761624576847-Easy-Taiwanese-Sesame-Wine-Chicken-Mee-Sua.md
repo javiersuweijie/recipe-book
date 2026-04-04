@@ -2,6 +2,7 @@
 layout: recipe
 title: Easy Taiwanese Sesame Wine Chicken Mee Sua
 description: A comforting Taiwanese sesame oil wine chicken soup served with mee sua noodles, perfect for cooler weather
+date: 2025-10-28
 servings: 4
 prep_time: 10 minutes
 cook_time: 35 minutes

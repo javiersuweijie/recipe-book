@@ -2,6 +2,7 @@
 layout: recipe
 title: Soft Potato Buns
 description: Fluffy, slightly sweet dinner rolls enriched with mashed potato
+date: 2025-12-07
 servings: 12
 prep_time: 30 minutes
 cook_time: 35 minutes

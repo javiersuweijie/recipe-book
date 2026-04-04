@@ -2,6 +2,7 @@
 layout: recipe
 title: Gyudon (Japanese Beef Rice Bowl)
 description: A classic Japanese comfort food featuring thinly sliced beef and tender onions simmered in a savory-sweet sauce, served over steamed rice.
+date: 2025-02-08
 servings: 2
 prep_time: 5 minutes
 cook_time: 15 minutes

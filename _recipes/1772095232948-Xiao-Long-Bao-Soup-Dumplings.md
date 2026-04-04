@@ -2,6 +2,7 @@
 layout: recipe
 title: Xiao Long Bao (Soup Dumplings)
 description: Authentic Chinese soup dumplings with a delicate pork filling and flavorful broth.
+date: 2026-02-26
 servings: 4 (approx. 20 dumplings)
 prep_time: 75 minutes (active prep)
 cook_time: 70 minutes (active cooking)

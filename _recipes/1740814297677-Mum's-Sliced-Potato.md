@@ -2,6 +2,7 @@
 layout: recipe
 title: Mum's Sliced Potato
 description: A simple and flavorful dish with crispy potatoes and caramelized onions
+date: 2025-03-01
 servings: 3
 prep_time: 10 minutes
 cook_time: 15 minutes
