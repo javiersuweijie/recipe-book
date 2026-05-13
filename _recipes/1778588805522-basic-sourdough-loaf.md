@@ -8,15 +8,15 @@ cook_time: 40 minutes
 resting_time: 16-18 hours
 ingredients:
   - "Levain":
-    - 11g active starter [11g]
-    - 29g bread flour [29g]
-    - 25g whole wheat flour [25g]
-    - 43g water [43ml]
+    - 20g active starter [20g]
+    - 40g bread flour [40g]
+    - 40g whole wheat flour [40g]
+    - 40g water [40ml]
   - "Final dough":
-    - 302g bread flour [302g]
-    - 138g whole wheat flour [138g]
-    - 342g water [342ml] (add 320g first, remaining 22g with the salt)
-    - 108g levain [108g]
+    - 280g bread flour [280g]
+    - 140g whole wheat flour [140g]
+    - 350g water [350ml] (add 320g first, remaining 30g with the salt)
+    - 140g levain [140g]
     - 11g sea salt [11g]
   - "Add-ons":
     - Black and white sesame seeds, mixed [to taste]
