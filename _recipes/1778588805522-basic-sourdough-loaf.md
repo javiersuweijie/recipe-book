@@ -1,23 +1,23 @@
 ---
 layout: recipe
 title: Basic Sourdough Loaf
-description: A 30% whole-wheat sourdough loaf with sesame seed add-ins, adapted from Flour Water Salt Yeast by Ken Forkish.
-servings: 2 loaves
+description: A 30% whole-wheat single sourdough loaf with sesame seed add-ins, adapted from Flour Water Salt Yeast by Ken Forkish.
+servings: 1 loaf
 prep_time: 45 minutes
 cook_time: 40 minutes
 resting_time: 16-18 hours
 ingredients:
   - "Levain":
-    - 30g active starter [30g]
-    - 80g bread flour [80g]
-    - 70g whole wheat flour [70g]
-    - 120g water [120ml]
+    - 11g active starter [11g]
+    - 29g bread flour [29g]
+    - 25g whole wheat flour [25g]
+    - 43g water [43ml]
   - "Final dough":
-    - 604g bread flour [604g]
-    - 276g whole wheat flour [276g]
-    - 684g water [684ml] (add 640g first, remaining 44g with the salt)
-    - 216g levain [216g]
-    - 22g sea salt [22g]
+    - 302g bread flour [302g]
+    - 138g whole wheat flour [138g]
+    - 342g water [342ml] (add 320g first, remaining 22g with the salt)
+    - 108g levain [108g]
+    - 11g sea salt [11g]
   - "Add-ons":
     - Black and white sesame seeds, mixed [to taste]
 notes:
